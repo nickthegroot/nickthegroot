@@ -1,6 +1,6 @@
 ### Hi there, I'm Nick - aka [nickthegroot](https://nickthegroot.com) 👋
 
-[![Website](https://img.shields.io/website?label=nickthegroot.com&style=for-the-badge&url=https%3A%2F%2Fnickthegroot.com)](website)
+[![Website](https://img.shields.io/website?label=nickthegroot.com&style=for-the-badge&url=https%3A%2F%2Fnickthegroot.com)](https://nickthegroot.com)
 
 ## I'm a Data Scientist, Software Engineer, and University Student
 
