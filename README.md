@@ -7,7 +7,6 @@
 - 🎒 **Education**: Full-time student at UCSD (Majoring in Data Science & Cognitive Science)
 - 👨‍💻 **Job**: Full-stack/special-ops engineer for [Streem](https://streem.com/)
 - 💬 **Contact**: Through [E-Mail](mailto:nbdegroot1@gmail.com)
-- ⚡ **Fun fact**: Currently trying to self-teach myself Japanese
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
