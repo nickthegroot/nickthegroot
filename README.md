@@ -2,9 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=nickthegroot.com&style=for-the-badge&url=https%3A%2F%2Fnickthegroot.com)](https://nickthegroot.com)
 
-## I'm a Data Scientist, Software Engineer, and University Student
+## I'm a Data Scientist and Software Engineer
 
-- 🎒 **Education**: Full-time student at UCSD (Majoring in Data Science & Cognitive Science)
 - 💬 **Contact**: Through [E-Mail](mailto:nick@nickthegroot.com)
 
 ### Languages and Tools:
