@@ -1,12 +1,8 @@
-### Hi there, I'm Nick - aka [nickthegroot](https://nickthegroot.com) 👋
-
-[![Website](https://img.shields.io/website?label=nickthegroot.com&style=for-the-badge&url=https%3A%2F%2Fnickthegroot.com)](https://nickthegroot.com)
-
-## I'm a Data Scientist & Software Engineer
-
+### Hey! I'm Nick, aka @nickthegroot 👋
 - 👨‍💻 **Work**: Senior Software Engineer for [Digs](https://digs.com/)
-- 🎒 **Education**: BS in Data Science & Cognitive Science from UCSD
-- 💬 **Contact**: Through [E-Mail](mailto:nick@nickthegroot.com)
+- 🎒 **Education**: B.S. in Data Science & Cognitive Science from [UCSD](https://ucsd.edu/)
+- 💬 **Contact**: [nick@nickthegroot.com](mailto:nick@nickthegroot.com)
+- 🔗 **Website**: https://nickthegroot.com
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
