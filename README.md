@@ -1,14 +1,15 @@
-### Hey! I'm Nick, aka @nickthegroot 👋
+### Hey! I'm Nick, aka `@nickthegroot` 👋
+
 - 👨‍💻 **Work**: Senior Software Engineer for [Digs](https://digs.com/)
-- 🎒 **Education**: B.S. in Data Science & Cognitive Science from [UCSD](https://ucsd.edu/)
+- 🎒 **Education**: B.S. Data Science, B.S. Cognitive Science (spec. ML & Neural Computation) from [UCSD](https://ucsd.edu/)
 - 💬 **Contact**: [nick@nickthegroot.com](mailto:nick@nickthegroot.com)
 - 🔗 **Website**: https://nickthegroot.com
 
-### Languages and Tools:
+#### Commonly Used Languages/Frameworks
+
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
