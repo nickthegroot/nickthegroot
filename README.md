@@ -1,6 +1,6 @@
 ### Hey! I'm Nick, aka `@nickthegroot` 👋
 
-- 👨‍💻 **Work**: Senior Software Engineer for [Digs](https://digs.com/)
+- 👨‍💻 **Work**: Senior Research Engineer for [Digs](https://digs.com/)
 - 🎒 **Education**: B.S. Data Science, B.S. Cognitive Science (spec. ML & Neural Computation) from [UCSD](https://ucsd.edu/)
 - 💬 **Contact**: [nick@nickthegroot.com](mailto:nick@nickthegroot.com)
 - 🔗 **Website**: https://nickthegroot.com
